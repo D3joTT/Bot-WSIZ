@@ -1,0 +1,19 @@
+{
+  "token": "",
+
+  "panel": 761621206449127454,
+
+  "status": "Wyższa Szkoła Informatyki i Zarządzania",
+
+  "url": "https://cdn.discordapp.com/icons/555843675293483008/2b20c80260db060684c44e5dc42b3729.webp?size=128",
+
+  "emojis": ["\ud83d\udcbb", "\ud83c\udfa8", "\ud83c\udf10", "\ud83d\udd12"],
+
+  "available": "\u2800\n\ud83d\udcbb - Programista\n\ud83c\udfa8 - Grafik\n\ud83c\udf10 - Web Dev\n\ud83d\udd12 - Administrator Sieci",
+
+  "chooseRole": "Wybór ról",
+
+  "welcome": "Witaj na oficjalnym serwerze WSIZ",
+
+  "getRole": "Zareaguj, aby otrzymać rolę:"
+}
